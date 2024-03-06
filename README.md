@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aye Thandar Win.
-- 🌱 I’m currently learning .Net Core and Javascript.
+- 🌱 I’m currently learning C#, Blazor and Javascript.
 - 😄 You can call me "Aye".
 
 <!---
